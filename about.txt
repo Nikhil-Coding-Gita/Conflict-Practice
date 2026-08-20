@@ -1,2 +1,2 @@
 This is our Git project.
-We are learning Git and GitHub.
+We are learning Git and GitHub and PR.
