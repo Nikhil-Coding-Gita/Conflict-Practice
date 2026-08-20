@@ -1,5 +1,4 @@
 Shopping List:
 - Milk
 - Bread
-- cheese
-- cream
+- butter
