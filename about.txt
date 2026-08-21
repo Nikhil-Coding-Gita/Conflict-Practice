@@ -1,2 +1,1 @@
 This is Git Project.
-We are learning Git, GitHub.
