@@ -1,2 +1,2 @@
 This is Git Project.
-We are learning Git, GitHub, PR and Merge Conflict.
+We are learning Git, GitHub.
